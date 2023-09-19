@@ -1,0 +1,54 @@
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso fallido, Clave o usuario incorrectos]
+fechaHora: 2020-04-02, 19:24:05.683
+dominio: lab.so1
+contrasenia: '6101230566618'
+usuario: miriam.mondragon
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso fallido, Clave o usuario incorrectos]
+fechaHora: 2020-04-02, 19:24:24.245
+dominio: lab.so1
+contrasenia: '51789509368862'
+usuario: miriam.mondrago
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso fallido, Clave caducada]
+fechaHora: 2020-04-02, 19:27:56.465
+dominio: lab.so1
+contrasenia: '49672491'
+usuario: manuel.carcamo
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso fallido, No se ingreso un servidor valido]
+fechaHora: 2020-04-02, 19:28:38.715
+dominio: lab
+contrasenia: '27916375'
+usuario: manuel.carcamo
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso exitoso, '']
+fechaHora: 2020-04-05, 18:08:20.247
+dominio: lab.so1
+contrasenia: '48772686332'
+usuario: karol.palma
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso exitoso, '']
+fechaHora: 2020-04-05, 18:16:42.433
+dominio: lab.so1
+contrasenia: '57973048278296'
+usuario: miriam.mondragon
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso fallido, Clave o usuario incorrectos]
+fechaHora: 2020-04-05, 19:50:38.247
+dominio: lab.so1
+contrasenia: '3158422723932'
+usuario: miriam.mondragon
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso exitoso, '']
+fechaHora: 2020-04-05, 19:50:48.401
+dominio: lab.so1
+contrasenia: '31754555466549'
+usuario: miriam.mondragon
+'-- -- -- -- -- -- -- -- -- ': ' -- -- -- -- -- -- -- -- --'
+ingreso: [Ingreso exitoso, '']
+fechaHora: 2020-04-06, 13:43:42.151
+dominio: lab.so1
+contrasenia: '03557616399341'
+usuario: miriam.mondragon
